@@ -1,4 +1,4 @@
-CHIP me
+CHIP q1
 {
     IN x[16],y[16],as;
     OUT s[16],overflow;
